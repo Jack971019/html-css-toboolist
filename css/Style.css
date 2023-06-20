@@ -18,14 +18,14 @@ header{
     background-color: rgb(229, 229, 229);
 }
 
-#add_task{
-    background-color: rgb(70, 70, 214);
-    border-radius: 10px;
-    padding: 1% 1%;
-    font-size: 24px;
+
+.New_task{
+    background-color: aqua;
 }
 
-#task_button{
-    border-bottom: 2px;
+#buttons{
+    
 }
+
+
 
