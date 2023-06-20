@@ -35,12 +35,16 @@ header{
     background-color: aqua;
     padding: 5px;
     border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px;
 }
 
 .add_section{
     background-color: white;
     padding: 5px;
     border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px;
 }
 
 
@@ -53,9 +57,11 @@ header{
 }
 
 .list{
-    padding: 10px;
-    margin-left: 40px;
+    padding: 5px;
+    margin-left: 30px;
     background-color: white;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .editorial{
@@ -66,11 +72,53 @@ header{
 }
 
 .less_important_titles{
-    padding: 30px;
+    padding: 20px;
     background-color: white;
 }
 
 .x_circle{
+    background-color: white;
     color: red;
 }
+
+.check_sign{
+    background-color: white;
+    color: rgb(74, 186, 14);
+}
+
+#qi_goals{
+    background-color: blueviolet;
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px
+}
+
+#recruiting{
+    background-color:rgb(6, 143, 93);
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px
+}
+
+#mobile{
+    background-color:rgb(222, 101, 20);
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px
+}
+
+#website{
+    background-color:rgb(234, 15, 154);
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px
+}
+
+#sales{
+    background-color:rgb(49, 205, 18);
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px
+}
+
 
