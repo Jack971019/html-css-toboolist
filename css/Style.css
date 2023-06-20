@@ -18,14 +18,46 @@ header{
     background-color: rgb(229, 229, 229);
 }
 
-
-.New_task{
-    background-color: aqua;
+#buttons{
+    background-color: white;
 }
 
 #buttons{
-    
+    padding: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 400px;
+    border-radius: 5%;
+    background-color: white;
+}
+
+.add_task{
+    background-color: aqua;
+    padding: 5px;
+}
+
+.add_section{
+    background-color: white;
+    padding: 5px;
 }
 
 
+
+#main_body{
+    margin-top: 120;
+    margin-left: 300px;
+    margin-right: 400px;
+    background-color: white;
+}
+
+.list{
+    padding: 5px;
+}
+
+.editorial{
+    background-color: rgb(13, 86, 197);
+    font-size: 70%;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px;
+}
 
