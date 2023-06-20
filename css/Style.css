@@ -2,13 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(218, 213, 213)
 }
 
 header{
     padding: 20px;
 }
 
-
-#color{
-    color: red
+.title_color{
+    background-color: white;
 }
+
+
+.second_background_color{
+    background-color: rgb(229, 229, 229);
+}
+
