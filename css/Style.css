@@ -34,11 +34,13 @@ header{
 .add_task{
     background-color: aqua;
     padding: 5px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .add_section{
     background-color: white;
     padding: 5px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 
@@ -66,5 +68,9 @@ header{
 .less_important_titles{
     padding: 30px;
     background-color: white;
+}
+
+.x_circle{
+    color: red;
 }
 
